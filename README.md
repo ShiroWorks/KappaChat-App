@@ -10,3 +10,4 @@ npm run dev
 
 Go to localhost:3000
 ```
+[Live version.](https://kappa--chat.herokuapp.com/index.html)
